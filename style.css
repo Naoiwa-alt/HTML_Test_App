@@ -1,0 +1,30 @@
+/* okimari */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.page-wrapper {
+  width: 100%;
+  padding: 0 40px;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+/* design profile-pic*/
+.profile-pic{
+    width : 200px ;
+    height : 200px ;
+    border-radius : 50% ;
+    object-fit : cover;
+}
+/* adjust font-size,position*/
+h1{
+    font-size: 24px;
+    background-color: rgb(226, 221, 221);
+}
+h2{
+    font-size 20px;
+}
+ul{
+    list-style-position: inside;
+}
