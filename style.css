@@ -25,6 +25,7 @@ h1{
 h2{
     font-size 20px;
 }
+/* adjust head position of list */
 ul{
     list-style-position: inside;
 }
